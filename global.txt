@@ -1,0 +1,60 @@
+CHECKLIST DE AMEACAS GLOBAIS
+Atualizado: 2026-10-23 15:37:47
+
+AMEACAS GLOBAIS
+CONFLITOS E GEOPOLITICA
+[ ] Escalada de conflitos armados entre paises
+[ ] Ataques a infraestrutura estrategica ou rotas internacionais
+[ ] Tensoes geopoliticas, sancoes e restricoes comerciais
+
+ENERGIA E COMBUSTIVEIS
+[ ] Choques globais na oferta ou no preco de petroleo, gas e combustiveis
+[ ] Interrupcao de rotas internacionais de energia
+[ ] Crise energetica com impacto em producao e transporte
+
+ALIMENTOS E AGRICULTURA
+[ ] Quebras de safra simultaneas em regioes produtoras
+[ ] Restricoes a exportacao de alimentos, graos ou fertilizantes
+[ ] Interrupcao internacional de cadeias alimentares
+[ ] Escassez global de insumos agricolas
+
+AGUA E CLIMA
+[ ] Secas prolongadas afetando varias regioes produtoras
+[ ] Eventos climaticos extremos com impacto transfronteirico
+[ ] Pressao sobre recursos hidricos em bacias compartilhadas
+
+COMERCIO E LOGISTICA INTERNACIONAL
+[ ] Interrupcao de rotas maritimas, portos ou corredores comerciais
+[ ] Restricoes de exportacao e escassez de materiais estrategicos
+[ ] Ruptura de cadeias internacionais de componentes e medicamentos
+
+ECONOMIA E FINANCAS GLOBAIS
+[ ] Instabilidade financeira com repercussao em varios paises
+[ ] Inflacao global em energia, alimentos ou materias-primas
+[ ] Crise de credito ou perturbacao dos mercados internacionais
+
+RISCO PANDEMICO
+[ ] Sinais de transmissao sustentada entre humanos ou em varios paises
+[ ] Novos surtos, variantes ou aumento incomum de casos
+[ ] Nipah, hantavirus, Ebola/Marburg, H5N1, H1N1 e COVID-19
+[ ] Mpox, MERS/SARS, Lassa, Zika, Oropouche e outros virus emergentes
+[ ] Alertas epidemiologicos, mudancas de transmissibilidade ou gravidade
+
+PANDEMIAS E SAUDE INTERNACIONAL
+[ ] Surto com propagacao entre paises
+[ ] Doencas em animais afetando cadeias alimentares internacionais
+[ ] Escassez internacional de medicamentos ou insumos medicos
+
+RISCOS NUCLEARES, QUIMICOS E AMBIENTAIS
+[ ] Incidente nuclear ou radiologico com potencial transfronteirico
+[ ] Poluicao ou contaminacao que ultrapasse fronteiras
+[ ] Grandes incendios ou erupcoes com efeitos regionais
+
+CIBERSEGURANCA GLOBAL
+[ ] Ciberataques simultaneos a servicos ou empresas de varios paises
+[ ] Falhas em sistemas internacionais de pagamentos ou comunicacoes
+[ ] Ataques a cadeias globais de fornecimento digital
+
+DESLOCAMENTO E CRISE HUMANITARIA
+[ ] Deslocamentos em massa causados por guerra ou desastre
+[ ] Pressao internacional sobre abrigos e ajuda humanitaria

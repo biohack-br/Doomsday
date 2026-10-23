@@ -1,0 +1,68 @@
+CHECKLIST DE AMEACAS NACIONAIS - BRASIL
+Atualizado: 2026-10-23 15:37:47
+
+AMEACAS NACIONAIS (BRASIL)
+ABASTECIMENTO DE ALIMENTOS
+[ ] Falta ou alta de alimentos em mercados e distribuidores
+[ ] Interrupcao regional de entregas e abastecimento
+[ ] Dependencia de rotas ou centros de distribuicao especificos
+
+AGUA E SANEAMENTO
+[ ] Racionamento ou interrupcao de agua em municipios ou regioes
+[ ] Contaminacao da agua ou alerta de qualidade
+[ ] Falhas de esgoto, saneamento ou coleta de residuos
+
+ENERGIA E COMBUSTIVEIS
+[ ] Apagoes, falhas na rede ou risco de racionamento
+[ ] Falta ou alta de gasolina, diesel, gas ou outros combustiveis
+[ ] Interrupcao local de servicos essenciais dependentes de energia
+
+TRANSPORTE E GREVES
+[ ] Greves, bloqueios rodoviarios ou paralisacao de transportes
+[ ] Atraso de alimentos, combustiveis e medicamentos
+[ ] Interrupcao de portos, aeroportos, ferrovias ou transporte publico
+
+DESASTRES E CLIMA
+[ ] Enchentes, deslizamentos, secas, tempestades ou calor extremo
+[ ] Incendios com evacuacoes ou piora da qualidade do ar
+[ ] Danos a estradas, redes eletricas e servicos de emergencia
+
+RISCO PANDEMICO
+[ ] Casos suspeitos ou confirmados e transmissao local
+[ ] Nipah, hantavirus, Ebola/Marburg, H5N1, H1N1 e COVID-19
+[ ] Mpox, MERS/SARS, Lassa, Zika, Oropouche e outros virus emergentes
+[ ] Alertas epidemiologicos, novas variantes ou aumento incomum de casos
+
+SAUDE PUBLICA
+[ ] Surtos locais ou regionais sob investigacao
+[ ] Falta de medicamentos ou sobrecarga de hospitais
+[ ] Alertas sanitarios sobre agua, alimentos ou animais
+
+SEGURANCA E CONFLITOS INTERNOS
+[ ] Ameacas localizadas, atentados ou alertas de seguranca
+[ ] Disturbios, confrontos ou declaracao de emergencia
+[ ] Fechamento de areas, vias ou locais publicos
+
+ECONOMIA NACIONAL
+[ ] Inflacao, desemprego ou perda de poder de compra
+[ ] Instabilidade bancaria ou falhas em pagamentos
+[ ] Alta de aluguel, alimentos, transporte e servicos essenciais
+
+CIBERATAQUES E COMUNICACOES
+[ ] Ataques a sistemas publicos, bancos ou empresas essenciais
+[ ] Interrupcao de internet, telefonia ou pagamentos
+[ ] Fraudes digitais e vazamentos de dados
+
+INFRAESTRUTURA E EMERGENCIAS
+[ ] Falhas em pontes, barragens, redes de agua ou energia
+[ ] Sobrecarga de bombeiros, hospitais ou servicos de resgate
+[ ] Interrupcao de saneamento, coleta de lixo ou servicos municipais
+
+ABRIGOS E DESLOCAMENTO
+[ ] Desabrigados por desastres ou conflitos
+[ ] Falta de vagas em abrigos ou necessidade de apoio humanitario
+[ ] Interrupcao de moradia, escolas ou servicos comunitarios
+
+ACIDENTES INDUSTRIAIS E RADIOLÓGICOS
+[ ] Vazamento quimico, contaminacao industrial ou acidente radiologico
+[ ] Ordens locais de abrigo, evacuacao ou restricao de acesso
